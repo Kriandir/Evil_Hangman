@@ -12,3 +12,4 @@ This project is going to be a hangman game with the option inbuild that the comp
 
 ## Project Schematics:
 
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20sketch.jpg)
