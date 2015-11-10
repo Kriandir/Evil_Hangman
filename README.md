@@ -1,6 +1,8 @@
 # Evil_Hangman
 
-This project is going to be a hangman game with the option inbuild that the computer cheats
+This project is going to be a hangman game with the option inbuild that the computer cheats.
+author:         Kriek van der Meulen
+studentnumber:  6335233
 
 ## Features:
 
