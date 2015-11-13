@@ -10,7 +10,7 @@
 
 ## Model overview:
 
-![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/overview.png)
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/overview.jpg)
 
 
 ##Additional not previously named necessities:
