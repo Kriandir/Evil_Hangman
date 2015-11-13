@@ -5,7 +5,7 @@
 ![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/startscreen.png)
 ![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/Menu.png)
 ![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/Gameboard.png)
-![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/settings2.png)
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/settings2.png = 250x)
 ![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/Highscore.png)
 
 ## Model overview:
