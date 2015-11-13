@@ -2,15 +2,15 @@
 
 ##Consolidated sketches of the design:
 
-![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20startscreen.jpg)
-![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20Menu.jpg)
-![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20Gameboard.jpg)
-![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20Settings.jpg)
-![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20Highscore.jpg)
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/startscreen.png)
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/Menu.png)
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/Gameboard.png)
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20Settings.png)
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20Highscore.png)
 
 ## Model overview:
 
-![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20overview.jpg)
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20overview.png)
 
 
 ##Additional not previously named necessities:
