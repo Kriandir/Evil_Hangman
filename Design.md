@@ -5,12 +5,12 @@
 ![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/startscreen.png)
 ![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/Menu.png)
 ![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/Gameboard.png)
-![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20Settings.png)
-![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20Highscore.png)
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/Settings.png)
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/Highscore.png)
 
 ## Model overview:
 
-![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/project%20overview.png)
+![alt tag](https://github.com/Kriandir/Evil_Hangman/blob/master/overview.png)
 
 
 ##Additional not previously named necessities:
