@@ -1,0 +1,114 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="kriek.evil_hangman_the_second.MenuActivity">
+
+
+    <TextView
+        android:text="@string/choosegm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:layout_marginBottom="24dp"
+        android:layout_above="@+id/angel"
+        android:layout_centerHorizontal="true"
+        android:textSize="25sp" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/angel"
+        android:layout_marginBottom="65dp"
+        android:background="@mipmap/angel"
+        android:onClick="onClick"
+        android:layout_above="@+id/imageButton"
+        android:layout_alignRight="@+id/textView"
+        android:layout_alignEnd="@+id/textView" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/devil"
+        android:background="@mipmap/devil"
+        android:nestedScrollingEnabled="false"
+        android:onClick="onClick"
+        android:layout_alignTop="@+id/angel"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lengthword"
+        android:id="@+id/textView2"
+        android:textSize="20sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton"
+        android:background="@mipmap/startbutton"
+        android:onClick="onStartbutton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/guessnumber"
+        android:layout_alignEnd="@+id/guessnumber"
+        android:layout_marginBottom="30dp"/>
+
+    <SeekBar
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/wordlength"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:max="23"/>
+
+    <SeekBar
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/guesses"
+        android:layout_above="@+id/textView"
+        android:layout_alignLeft="@+id/wordlength"
+        android:layout_alignStart="@+id/wordlength"
+        android:layout_marginBottom="58dp"
+        android:max="25"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/guessword"
+        android:id="@+id/textView3"
+        android:textSize="20sp"
+        android:layout_marginBottom="42dp"
+        android:layout_above="@+id/guesses"
+        android:layout_alignLeft="@+id/guesses"
+        android:layout_alignStart="@+id/guesses" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Number of guesses: 1"
+        android:id="@+id/guessnumber"
+        android:layout_marginTop="20dp"
+        android:layout_alignTop="@+id/guesses"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Length of word: 1"
+        android:id="@+id/lengthnumber"
+        android:layout_below="@+id/wordlength"
+        android:layout_alignLeft="@+id/guessnumber"
+        android:layout_alignStart="@+id/guessnumber" />
+
+</RelativeLayout>
+
+
+

@@ -1,0 +1,23 @@
+<resources>
+    <!-- startscreen-->
+    <string name="app_name">Evil Hangman</string>
+    <string name="welcome">Welcome to Hangman!!</string>
+
+    <!-- Menu-->
+    <string name="title_activity_menu">Menu</string>
+    <string name="choosegm">Choose your difficulty!</string>
+    <string name="lengthword">Please enter the length of your words</string>
+    <string name="guessword">Please enter number of guesses</string>
+
+    <!-- Gameboard-->
+    <string name="title_activity_gameboard">Hangman</string>
+    <string name="action_settings">Settings</string>
+    <string name="enterletter">Enter letter here!</string>
+
+    <!-- Highscore-->
+    <string name="title_activity_highscore">Highscore</string>
+    <string name="inputname">Enter your name!</string>
+    <string name="highscorewelcome">Welcome to the Highscores!</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
